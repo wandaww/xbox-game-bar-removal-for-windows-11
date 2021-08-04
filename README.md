@@ -15,5 +15,5 @@ ls -Recurse *.psm1 | Unblock-File
 4. and execute the script:
 .\remove-game-bar
 
-thanks, please follow [my stream page](fb.gg/kuebastard) on facebook if you looking for quality content on gaming :D
+thanks, please follow [my stream page](fb.gg/kuebastard) on facebook if you looking for GOOD quality content on gaming :D and join my [discord server ](https://discord.gg/Sd2xx9K) for disqussing tech and LFG
 
