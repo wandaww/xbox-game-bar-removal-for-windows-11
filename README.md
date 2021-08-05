@@ -8,10 +8,11 @@ from source i read, if we remove tcui it will break another app function like st
 if you ask for usage, it's easy to use just follow this step:
 1. Open powershell with run as admin
 2. Copy this command to enable execution of PowerShell scripts:
+<br>
 Set-ExecutionPolicy Unrestricted
 3. Or unblock PowerShell scripts and modules within this directory:
-ls -Recurse *.ps1 | Unblock-File
-ls -Recurse *.psm1 | Unblock-File
+<br>ls -Recurse *.ps1 | Unblock-File
+<br>ls -Recurse *.psm1 | Unblock-File
 4. and execute the script:
 .\remove-game-bar
 
